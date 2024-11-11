@@ -1,5 +1,5 @@
 .indexBg{
-    background-image: url("Media/asph_bg.jpg");
+    background-image: url("../Media/asph_bg.jpg");
     background-attachment: fixed;
     background-size: cover;
 }
@@ -37,6 +37,13 @@ nav a:hover,.nav-item a:hover,.active, nav a{
 .welcome p{
     font-weight: 400;
     font-size: 15px;
+}
+
+.banner{
+    background-image: url("../Media/cappuccino_k.png");
+    background-position: center center;
+    background-size: cover;
+    height: 400px;
 }
 
 footer{
