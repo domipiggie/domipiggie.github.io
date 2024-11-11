@@ -1,3 +1,9 @@
+.indexBg{
+    background-image: url("Media/asph_bg.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
 nav{
     background-color: #1F5B25;
 }
@@ -12,4 +18,23 @@ nav{
 }
 nav a:hover,.nav-item a:hover,.active, nav a{
     color: white;
+}
+.navbar-toggler{
+    background-color: #6ece78;
+}
+
+.welcome{
+    background-color: rgba(0, 0, 0, 0.5);
+    min-height: 50vh;
+    color:white;
+    border-radius: 10px;
+    text-align: center;
+}
+.welcome h1{
+    font-weight: 700;
+    font-size: 35px;
+}
+.welcome p{
+    font-weight: 400;
+    font-size: 15px;
 }
