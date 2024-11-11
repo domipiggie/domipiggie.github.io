@@ -1,0 +1,15 @@
+nav{
+    background-color: #1F5B25;
+}
+.navbar-brand{
+    font-weight: 700;
+}
+.active{
+    font-weight: 600;
+}
+.nav-item a:not(.active){
+    color:#99e4a0;
+}
+nav a:hover,.nav-item a:hover,.active, nav a{
+    color: white;
+}
