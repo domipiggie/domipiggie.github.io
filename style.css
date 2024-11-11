@@ -38,3 +38,9 @@ nav a:hover,.nav-item a:hover,.active, nav a{
     font-weight: 400;
     font-size: 15px;
 }
+
+footer{
+    background-color: #1F5B25;
+    color: white;
+    padding: 30px 20px;
+}
