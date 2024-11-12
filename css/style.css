@@ -1,5 +1,5 @@
 .indexBg{
-    background-image: url("Media/asph_bg.jpg");
+    background-image: url("../Media/asph_bg.jpg");
     background-attachment: fixed;
     background-size: cover;
 }
@@ -43,4 +43,12 @@ footer{
     background-color: #1F5B25;
     color: white;
     padding: 30px 20px;
+}
+
+.banner{
+    background-image: url("../Media/kavezo.png");
+    background-position: center center;
+    background-size: cover;
+    height: 400px;
+
 }
